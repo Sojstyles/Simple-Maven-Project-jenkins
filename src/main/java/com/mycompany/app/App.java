@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private final String message = "Hello World! I am back.";
+    private final String message = "Hello World! I am back. Doing the first change to new branch";
 
     public App() {
     }
